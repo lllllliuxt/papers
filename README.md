@@ -10,3 +10,13 @@
 
 ***
 2019/9/20 总结师姐的论文（指静脉与cnn）
+
+2020/4/3 目前看完了人脸识别方向的论文：
+- Shi Yicu的所有论文
+- DeepFace
+- DeepID四篇
+- FaceNet
+- VGG2Face
+- CenterLoss
+
+目前感觉github不是方便的方法，已经转移到有道云笔记了。

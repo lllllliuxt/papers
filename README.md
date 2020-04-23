@@ -9,6 +9,7 @@
 - AdaptiveFace_Adaptive_Margin_and_Sampling_for_Face_Recognition
 - Unsupervised_Face_Normalization_With_Extreme_Pose_and_Expression
 - AdaCos_Adaptively_Scaling_Cosine_Logits_for_Effectively_Learning_Deep_Face
+- Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data——[论文代码](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)
 
 2020/4/12 
 - 【上午】摸鱼

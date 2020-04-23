@@ -1,6 +1,15 @@
 # 记录每天所读论文
 
 ***
+2020/4/23
+
+最近看完了CVPR2019人脸识别部分的论文
+- RegularFace
+- UniformFace_Learning_Deep_Equidistributed_Representation_for_Face_Recognition
+- AdaptiveFace_Adaptive_Margin_and_Sampling_for_Face_Recognition
+- Unsupervised_Face_Normalization_With_Extreme_Pose_and_Expression
+- AdaCos_Adaptively_Scaling_Cosine_Logits_for_Effectively_Learning_Deep_Face
+
 2020/4/12 
 - 【上午】摸鱼
 - 【下午】看旷视的circle Loss
@@ -22,5 +31,3 @@
 - FaceNet
 - VGG2Face
 - CenterLoss
-
-2019/9/20 总结师姐的论文（指静脉与cnn）

@@ -4,11 +4,11 @@
 2020/4/23
 
 最近看完了CVPR2019人脸识别部分的论文
-- RegularFace
-- UniformFace_Learning_Deep_Equidistributed_Representation_for_Face_Recognition
+- RegularFace——[论文代码](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)
+- UniformFace_Learning_Deep_Equidistributed_Representation_for_Face_Recognition——[论文代码](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)
 - AdaptiveFace_Adaptive_Margin_and_Sampling_for_Face_Recognition
-- Unsupervised_Face_Normalization_With_Extreme_Pose_and_Expression
-- AdaCos_Adaptively_Scaling_Cosine_Logits_for_Effectively_Learning_Deep_Face
+- Unsupervised_Face_Normalization_With_Extreme_Pose_and_Expression——[论文代码](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)
+- AdaCos_Adaptively_Scaling_Cosine_Logits_for_Effectively_Learning_Deep_Face——[论文代码](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)
 - Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data——[论文代码](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)
 
 2020/4/12 
